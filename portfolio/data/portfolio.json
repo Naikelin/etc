@@ -1,0 +1,32 @@
+{
+  "portfolio": [
+    {
+      "name": "TEST",
+      "quantity": 10,
+      "prices": [
+        {
+          "date": "2024-01-01T00:00:00Z",
+          "price": 150.0
+        },
+        {
+          "date": "2024-06-01T00:00:00Z",
+          "price": 160.0
+        }
+      ]
+    },
+    {
+      "name": "FINTUAL",
+      "quantity": 5,
+      "prices": [
+        {
+          "date": "2024-01-01T00:00:00Z",
+          "price": 2500.0
+        },
+        {
+          "date": "2024-06-01T00:00:00Z",
+          "price": 2600.0
+        }
+      ]
+    }
+  ]
+}
